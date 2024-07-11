@@ -111,7 +111,7 @@ window.onload = function() {
 function copyText() {
     var text = document.getElementById("cont-addr-pitifun");
     //navigator.clipboard.writeText(text.innerText);
-    navigator.clipboard.writeText("konyol");
+    navigator.clipboard.writeText("mgw7u-kqaaa-aaaam-acwnq-cai");
   
     setTimeout(function() { 
         text.style.animation = 'bounce 0.5s ease 1';
